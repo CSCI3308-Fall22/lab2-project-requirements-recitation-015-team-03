@@ -8,4 +8,3 @@ Gabriel Khabner - gabek25 |
 Owen Allison - owal7428 |
 Rachel Lam - rachelmlam
 
-Cleared up all of the copy and pasted lines :D
