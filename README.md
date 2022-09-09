@@ -1,8 +1,4 @@
 # lab2-project-requirements-recitation-015-team-03
-
-Project Team Members:
-Alexander (AJ) Juenemann 
-
 This is a main branch edit.
 This is a main branch edit.
 This is a main branch edit.
